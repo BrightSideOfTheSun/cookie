@@ -1,4 +1,5 @@
 // this mod is heavily based on a mod by Silentclowd found here: https://github.com/Nyhilo/KookieStocks
+// this mod is heavily based on a mod by darthpilou found here: https://github.com/darthpilou/EZStock
 
 let EZStock = {
     setCookie: (cname, cvalue, exdays) => {
